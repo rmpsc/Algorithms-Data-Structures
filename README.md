@@ -1,6 +1,6 @@
 # Algorithms-Data-Structures
 
-# Lab 1: Linear Search/Binary Search
+## Lab 1: Linear Search/Binary Search
 # Lab 2: Square root/Smallest missing number
 # Lab 3: kth least element/max k numbers
 # Lab 4: k elements that are closest to the median
